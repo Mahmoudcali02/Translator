@@ -20,6 +20,7 @@ function translate() {
         .then(function (data) {
             console.log(data)
             resultEL.text(data.text[0])
+            window.localStorage.setItem("lastTrans", data.text[0]);
         });
 }
 
