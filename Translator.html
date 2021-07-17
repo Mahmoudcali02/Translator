@@ -8,19 +8,23 @@
     <link rel="stylesheet" href= "Translator.css">
     <title>Translator</title>
 </head>
-
-
-        
-
-
-<textarea id="text" placeholder="Enter text..."></textarea>
+<body>
+    <div class ="container">
+        <div class ="content">
+    <textarea id="text" placeholder="Enter text..."></textarea>
 Language code
 <input id = "lang-codes">
-<button onclick="translate()">Translate text</button>
+<button id="translate">Translate text</button>
+Translation:
+<p id="result"></p>
+</div>
+<div class = "flap">
 
-<p id="Result"></p>
-<body>
-    
+</div>
+</div>
 </body>
-<script href = "Translator"></script>
+<script
+src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src = "Translator.js"></script>
+
 </html>
