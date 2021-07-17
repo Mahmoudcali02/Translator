@@ -140,3 +140,5 @@ a.active,a:hover{
   .container:hover .flap::before{
     transform: translatex(-300px);
   }
+
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
