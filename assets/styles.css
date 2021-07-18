@@ -7,8 +7,7 @@
   }
 
   nav{
-    background: #fcb045;
-     
+    background: #051937;
     height: 80px;
     width: 100%;
   }
@@ -25,7 +24,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: black;
+    color: white;
     font-size: 15px;
     padding: 7px 13px;
     border-radius: 3px;
@@ -34,7 +33,7 @@ nav ul li a{
 }
 
 a.active,a:hover{
-    background: #b39f84 ;
+    background: burlywood ;
     transition: .5s;
 }
 
@@ -79,11 +78,11 @@ a.active,a:hover{
     transform: translate(-50%, -50%);
     height: 400px;
     width: 600px;
-    background: #fcb045;
+    background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
     cursor: pointer;
-    box-shadow: 0 0 20px 8px #d0d0d0;
+    box-shadow: 0 0 20px 8px #B0A8B9;
   }
   
   .content {
