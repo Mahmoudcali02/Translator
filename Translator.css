@@ -1,8 +1,9 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
-body {
-    background: #f2f2f2;
-  }
+
+html {
+  background-color: bisque;
+}   
   
   nav{
     background: #051937;
@@ -15,6 +16,8 @@ nav ul{
   float: right;
   margin-right: 20px;
 }
+
+
 
 nav ul li{
     display: inline-block;
