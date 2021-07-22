@@ -1,8 +1,6 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
-h2 {
-  font-family: 'Open Sans', sans-serif;
-}
+
 html {
   background-color: bisque;
 }   
@@ -69,17 +67,14 @@ a.active,a:hover{
     }
   }
 
-/* Translation box
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
   .container  {
-    display: flex;
-    flex: content;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    height: 400px;
-    width: 600px;
+    height: 700px;
+    width: 1000px;
     background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
