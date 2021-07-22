@@ -1,11 +1,12 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
-body {
-    background: #f2f2f2;
-  }
+
+html {
+  background-color: bisque;
+}   
   
   nav{
-    background: #fcb045;
+    background: #051937;
      
     height: 80px;
     width: 100%;
@@ -16,6 +17,8 @@ nav ul{
   margin-right: 20px;
 }
 
+
+
 nav ul li{
     display: inline-block;
     line-height: 80px;
@@ -23,7 +26,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: black;
+    color: white;
     font-size: 15px;
     padding: 7px 13px;
     border-radius: 3px;
@@ -32,7 +35,7 @@ nav ul li a{
 }
 
 a.active,a:hover{
-    background: #b39f84 ;
+    background:  bisque;
     transition: .5s;
 }
 
@@ -72,11 +75,11 @@ a.active,a:hover{
     transform: translate(-50%, -50%);
     height: 400px;
     width: 600px;
-    background: #fcb045;
+    background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
     cursor: pointer;
-    box-shadow: 0 0 20px 8px #d0d0d0;
+    box-shadow: 0 0 20px 8px #B0A8B9;
   }
   
   .content {
