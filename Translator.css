@@ -5,7 +5,7 @@ html {
   background-image: url(./images/original.jpg);
 }   
   
-  nav{
+nav{
     background: #051937;
      
     height: 80px;
@@ -69,12 +69,14 @@ a.active,a:hover{
 
 
   .container  {
+    display: flex;
+    flex-wrap: wrap;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    height: 700px;
-    width: 1000px;
+    height: 80%;
+    width: 90%;
     background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
