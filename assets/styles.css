@@ -7,8 +7,13 @@
   }
 
 html {
+<<<<<<< HEAD
   background-color: bisque;
 }
+=======
+  background: url(../images/languigi/original.jpg)
+} 
+>>>>>>> abdif
 
   nav{
     background: rgb(4, 4, 43);
