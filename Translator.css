@@ -2,7 +2,7 @@
 
 
 html {
-  background-color: bisque;
+  background-image: url(./images/original.jpg);
 }   
   
 nav{
@@ -75,8 +75,8 @@ a.active,a:hover{
     left: 50%;
     top: 60%;
     transform: translate(-50%, -50%);
-    height: 80%;
-    width: 90%;
+    height: 500px;
+    width: 600px;
     background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
@@ -99,7 +99,11 @@ a.active,a:hover{
     border-radius: 10px;
     font-size: 14px;
     }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> origin/index.html
   h1 {
     font-weight: 900;
     text-align: center;

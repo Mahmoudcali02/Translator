@@ -4,14 +4,20 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-}
+  }
 
 html {
+<<<<<<< HEAD
+  background-color: bisque;
+}
+=======
   background: url(../images/languigi/original.jpg)
 } 
+>>>>>>> abdif
 
   nav{
-    background: #051937;
+    background: rgb(4, 4, 43);
+     
     height: 80px;
     width: 100%;
   }
@@ -20,8 +26,6 @@ nav ul{
   float: right;
   margin-right: 20px;
 }
-
-  
 
 nav ul li{
     display: inline-block;
@@ -39,7 +43,7 @@ nav ul li a{
 }
 
 a.active,a:hover{
-    background: burlywood ;
+    background: #b39f84 ;
     transition: .5s;
 }
 
@@ -84,11 +88,11 @@ a.active,a:hover{
     transform: translate(-50%, -50%);
     height: 400px;
     width: 600px;
-    background: #7895BB;
+    background: #b39f84;
     overflow: hidden;
     border-radius: 20px;
     cursor: pointer;
-    box-shadow: 0 0 20px 8px #B0A8B9;
+    box-shadow: 0 0 20px 8px #d0d0d0;
   }
   
   .content {
