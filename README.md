@@ -70,3 +70,10 @@ We were proud of how the website functioned, it does everything we want it to do
 
 # Directions for future development
 Add a reverse function for the translation, add more languages, add a voice to text function and a text to voice function maybe too.
+
+# Links: 
+
+Deployed Link: https://a89ball.github.io/Translator/
+
+Repository Link: https://github.com/a89ball/Translator
+
