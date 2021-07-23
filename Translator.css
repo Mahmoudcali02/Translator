@@ -73,7 +73,7 @@ a.active,a:hover{
     flex-wrap: wrap;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 60%;
     transform: translate(-50%, -50%);
     height: 80%;
     width: 90%;
@@ -93,6 +93,12 @@ a.active,a:hover{
     padding: 40px;
     font-family: 'Merriweather', serif;
   }
+
+  #text {
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    }
   
   h1 {
     font-weight: 900;
