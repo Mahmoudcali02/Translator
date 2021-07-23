@@ -1,3 +1,6 @@
+![languigi 1](https://user-images.githubusercontent.com/84727085/126830861-fd844f17-d4d4-4802-bf1d-7be2c88f5eda.png)
+![Languigi 2](https://user-images.githubusercontent.com/84727085/126830876-38c20ea5-6ae4-4f08-9453-904ae2116596.png)
+![Languigi 3](https://user-images.githubusercontent.com/84727085/126830877-924596a2-3a36-4adc-a403-39eec801d6ed.png)
 ##Group 10:##
 Abdifatah Hassan
 
