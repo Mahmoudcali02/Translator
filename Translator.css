@@ -73,9 +73,9 @@ a.active,a:hover{
     flex-wrap: wrap;
     position: absolute;
     left: 50%;
-    top: 70%;
+    top: 60%;
     transform: translate(-50%, -50%);
-    height: 600px;
+    height: 500px;
     width: 600px;
     background: #7895BB;
     overflow: hidden;
@@ -95,9 +95,11 @@ a.active,a:hover{
   }
 
   #text {
-    margin-top: 20px;
-  }
-  
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    }
+
   h1 {
     font-weight: 900;
     text-align: center;
