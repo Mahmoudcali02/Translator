@@ -73,10 +73,10 @@ a.active,a:hover{
     flex-wrap: wrap;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 70%;
     transform: translate(-50%, -50%);
-    height: 80%;
-    width: 90%;
+    height: 600px;
+    width: 600px;
     background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
@@ -92,6 +92,10 @@ a.active,a:hover{
     color: black;
     padding: 40px;
     font-family: 'Merriweather', serif;
+  }
+
+  #text {
+    margin-top: 20px;
   }
   
   h1 {
