@@ -75,13 +75,8 @@ a.active,a:hover{
     left: 50%;
     top: 70%;
     transform: translate(-50%, -50%);
-<<<<<<< HEAD
     height: 600px;
     width: 600px;
-=======
-    height: 80%;
-    width: 90%;
->>>>>>> abdif
     background: #7895BB;
     overflow: hidden;
     border-radius: 20px;
