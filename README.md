@@ -73,7 +73,7 @@ Add a reverse function for the translation, add more languages, add a voice to t
 
 # Links: 
 
-Deployed Link: https://a89ball.github.io/Translator/
+Repository Link: https://github.com/Mahmoudcali02/Translator
 
-Repository Link: https://github.com/a89ball/Translator
+Deployed Link: https://mahmoudcali02.github.io/Translator/#index.html
 
